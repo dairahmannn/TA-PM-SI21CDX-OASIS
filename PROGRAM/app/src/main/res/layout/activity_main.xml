@@ -20,4 +20,16 @@
         android:layout_marginRight="113dp"
         android:layout_marginBottom="361dp"
         app:srcCompat="@drawable/login" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="105dp"
+        android:layout_marginRight="105dp"
+        android:layout_marginBottom="288dp"
+        android:ems="10"
+        android:hint="Username" />
 </RelativeLayout>
