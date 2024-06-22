@@ -5,7 +5,7 @@
     android:layout_height="fill_parent"
     android:background="#fff"
     android:orientation="vertical"
-    tools:context="com.uti.oasis.Kuliner"
+    tools:context="com.uti.applicationseaeats.Kuliner"
     android:weightSum="1">
 
     <ListView
