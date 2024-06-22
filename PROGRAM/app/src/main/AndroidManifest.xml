@@ -13,9 +13,13 @@
         android:theme="@style/Theme.ApplicationSeaEats"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            <activity android:name=".MainActivity"/>
             <activity android:name=".GambarPenginapan"/>
             <activity android:name=".Penginapan"/>
+            <activity android:name=".Kuliner"/>
+            <activity android:name=".ikanguramebakar"/>
+            <activity android:name=".ikanlaut"/>
+             <activity android:name=".streetfood"/>
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
