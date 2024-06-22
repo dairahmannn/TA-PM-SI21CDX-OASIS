@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BFDAEF"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="256dp"
+        android:src="@drawable/penginapan" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#093B51"
+        android:padding="20dp"
+        android:text="Penginapan Pantai TegalMas"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Lokasi: Villa laut dan villa apung Tegal Mas, Lampung. (Tangkapan layar Instagram @tegalmas.id)"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="16dp" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="338dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="Harga sewa villa atau cottage sebesar Rp 1.750.000 hingga Rp 5.000.000 untuk 3 hingga 10 orang. Harga dapat berubah sewaktu-waktu."
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="20dp" />
+
+    </ScrollView>
+
+</LinearLayout>

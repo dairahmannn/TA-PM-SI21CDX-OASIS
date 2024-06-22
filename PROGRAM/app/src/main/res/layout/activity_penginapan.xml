@@ -5,7 +5,7 @@
     android:layout_height="fill_parent"
     android:background="#fff"
     android:orientation="vertical"
-    tools:context="com.uti.oasis.Penginapan"
+    tools:context="com.uti.applicationseaeats.Penginapan"
     android:weightSum="1">
 
     <ListView
