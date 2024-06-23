@@ -18,7 +18,7 @@
         android:layout_marginStart="16dp"
         android:ems="10"
         android:textSize="25dp"
-        android:textColor="#FF0000FF"
+        android:textColor="#FFFF6600"
         android:text="WELCOME"
         android:textStyle="bold"
         android:gravity="start"
