@@ -17,10 +17,10 @@
         android:layout_marginTop="32dp"
         android:layout_marginStart="16dp"
         android:ems="10"
-        android:text="Bahari Pulaw Tegal Mas"
+        android:text="WELCOME"
         android:textStyle="bold"
         android:gravity="start" />
-    
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="204dp"
