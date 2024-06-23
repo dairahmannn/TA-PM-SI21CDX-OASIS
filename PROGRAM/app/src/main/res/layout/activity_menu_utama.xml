@@ -73,8 +73,8 @@
                         android:id="@+id/button1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="Penginapan"
-                        app:backgroundTint="#808080" />
+                        android:text="Hotel"
+                        app:backgroundTint="#6495ED" />
 
 
                 </LinearLayout>
@@ -110,7 +110,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:text="Kuliner"
-                        app:backgroundTint="#808080" />
+                        app:backgroundTint="#6495ED" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -145,7 +145,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:text="Spot Foto"
-                        app:backgroundTint="#808080"
+                        app:backgroundTint="#6495ED"
                         android:onClick="SpotFoto"/>
 
                 </LinearLayout>
@@ -182,7 +182,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:text="Keluar"
-                        app:backgroundTint="#808080" />
+                        app:backgroundTint="#6495ED" />
 
                 </LinearLayout>
 
