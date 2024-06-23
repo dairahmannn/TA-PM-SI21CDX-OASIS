@@ -19,7 +19,8 @@
         android:ems="10"
         android:text="WELCOME"
         android:textStyle="bold"
-        android:gravity="start" />
+        android:gravity="start"
+        android:fontFamily="@font/keren_font"/>
 
     <ImageView
         android:id="@+id/imageView"
