@@ -23,7 +23,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
-                android:background="#000080"
+                android:background="#000000"
                 android:text="Wisata dan Kuliner Pulau Tegal Mas Lampung"
                 android:textAlignment="center"
                 android:textColor="@color/white"
@@ -181,7 +181,7 @@
                         android:id="@+id/button6"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="Exit"
+                        android:text="Keluar"
                         app:backgroundTint="#808080" />
 
                 </LinearLayout>
