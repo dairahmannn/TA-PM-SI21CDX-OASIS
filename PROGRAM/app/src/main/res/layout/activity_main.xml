@@ -17,6 +17,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginStart="16dp"
         android:ems="10"
+        android:textSize="25dp"
         android:text="WELCOME"
         android:textStyle="bold"
         android:gravity="start"
