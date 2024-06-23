@@ -132,7 +132,7 @@
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="#000080">
+                    android:background="#000000">
 
                     <ImageView
                         android:layout_width="118dp"
@@ -169,7 +169,7 @@
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="#000080">
+                    android:background="#000000">
 
                     <ImageView
                         android:layout_width="117dp"
