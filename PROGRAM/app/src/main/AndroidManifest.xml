@@ -20,6 +20,11 @@
             <activity android:name=".ikanguramebakar"/>
             <activity android:name=".ikanlaut"/>
              <activity android:name=".streetfood"/>
+        <activity android:name=".Spotfoto"/>
+        <activity android:name=".spot1"/>
+        <activity android:name=".Spot2"/>
+        <activity android:name=".Spot3"/>
+
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
