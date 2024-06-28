@@ -104,7 +104,7 @@
                         android:layout_width="109dp"
                         android:layout_height="135dp"
                         android:layout_gravity="center_horizontal"
-                        android:src="@drawable/kuliner" />
+                        android:src="@drawable/kln" />
 
                     <Button
                         android:id="@+id/button2"
