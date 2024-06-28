@@ -61,7 +61,7 @@
                     android:layout_gravity="center_horizontal|center_vertical"
                     android:layout_margin="16dp"
                     android:orientation="vertical"
-                    android:background="#000000">
+                    android:background="#FFFFFF">
 
                     <ImageView
                         android:id="@+id/imageView3"
@@ -97,7 +97,7 @@
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="#000000">
+                    android:background="#FFFFFF">
 
                     <ImageView
                         android:layout_width="109dp"
@@ -132,7 +132,7 @@
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="#000000">
+                    android:background="#FFFFFF">
 
                     <ImageView
                         android:layout_width="118dp"
@@ -169,7 +169,7 @@
                     android:orientation="vertical"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="#000000">
+                    android:background="#FFFFFF">
 
                     <ImageView
                         android:layout_width="117dp"
