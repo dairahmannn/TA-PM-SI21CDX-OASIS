@@ -53,7 +53,8 @@
                 android:layout_marginBottom="16dp"
                 app:cardCornerRadius="8dp"
                 app:cardElevation="8dp"
-                app:srcCompat="@drawable/iconlogin">
+                app:srcCompat="@drawable/iconlogin"
+                android:backgroundTint="@color/cardview_dark_background">
 
                 <LinearLayout
                     android:layout_width="118dp"
@@ -89,7 +90,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
-                >
+                android:backgroundTint="@color/cardview_dark_background">
 
                 <LinearLayout
                     android:layout_gravity="center_horizontal|center_vertical"
@@ -124,7 +125,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
-                >
+                android:backgroundTint="@color/cardview_dark_background">
 
                 <LinearLayout
                     android:layout_gravity="center_horizontal|center_vertical"
@@ -161,7 +162,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
-                >
+                android:backgroundTint="@color/cardview_dark_background">
 
                 <LinearLayout
                     android:layout_gravity="center_horizontal|center_vertical"
