@@ -79,7 +79,8 @@
         android:layout_marginRight="165dp"
         android:layout_marginBottom="271dp"
         android:backgroundTint="#4CAF50"
-        android:text="Login" />
+        android:text="Login"
+        android:fontFamily="@font/fontbold"/>
 
 
 </RelativeLayout>
