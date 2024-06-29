@@ -65,6 +65,7 @@
         android:layout_marginBottom="341dp"
         android:ems="10"
         android:hint="Password"
+        android:fontFamily="@font/fontbold"
         android:inputType="textPersonName" />
 
     <Button
